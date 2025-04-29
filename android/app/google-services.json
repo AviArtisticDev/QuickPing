@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214131057261",
+    "project_id": "bottelnotifyapp",
+    "storage_bucket": "bottelnotifyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214131057261:android:5892c35269949e5f519564",
+        "android_client_info": {
+          "package_name": "com.avinash.quickping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLTZmHVuAvvLYitwZYLJ5W1FvR5Euw-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
